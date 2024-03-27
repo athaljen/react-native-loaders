@@ -1,0 +1,30 @@
+{
+  "name": "react-native-loaders",
+  "version": "1.0.0",
+  "description": "Loaders for react native using view and vanila Animated library",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athaljen/react-native-loaders.git"
+  },
+  "keywords": [
+    "npm",
+    "react-native",
+    "react",
+    "loader",
+    "Animated"
+  ],
+  "author": "athaljen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athaljen/react-native-loaders/issues"
+  },
+  "homepage": "https://github.com/athaljen/react-native-loaders#readme",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.60.0"
+  }
+}
