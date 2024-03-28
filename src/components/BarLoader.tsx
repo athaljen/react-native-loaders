@@ -1,5 +1,5 @@
 import React from "react";
-import { memo, useEffect, useRef } from "react";
+import { memo, useEffect } from "react";
 import { View, Animated, Easing, StyleSheet, ViewStyle } from "react-native";
 
 export interface BarLoaderProps {

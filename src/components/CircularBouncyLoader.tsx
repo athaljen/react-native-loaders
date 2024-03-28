@@ -1,6 +1,6 @@
 import React from "react";
-import { memo, useEffect, useRef } from "react";
-import { View, Animated, Easing, StyleSheet, ViewStyle } from "react-native";
+import { memo, useEffect } from "react";
+import { View, Animated, StyleSheet, ViewStyle } from "react-native";
 
 export interface CircularBouncyLoaderProps {
   NumberOfDots?: number;
