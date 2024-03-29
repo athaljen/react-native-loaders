@@ -1,5 +1,5 @@
 {
-  "name": "react-native-loaders",
+  "name": "@athaljen/react-native-loaders",
   "version": "1.0.0",
   "description": "Loaders for react native using view and vanila Animated library",
   "main": "src/index.js",
