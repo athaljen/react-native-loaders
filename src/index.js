@@ -3,6 +3,7 @@ const { default: CircleLoader } = require("./components/CircleLoader");
 const {
   default: CircularBouncyLoader,
 } = require("./components/CircularBouncyLoader");
+const { default: DotLoader } = require("./components/DotLoader");
 const EclipseLoader = require("./components/EclipseLoader");
 
 module.exports = {
@@ -10,4 +11,5 @@ module.exports = {
   CircleLoader,
   CircularBouncyLoader,
   EclipseLoader,
+  DotLoader,
 };

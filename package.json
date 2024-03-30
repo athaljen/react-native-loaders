@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/athaljen/react-native-loaders#readme",
   "peerDependencies": {
-    "react": ">=17",
-    "react-native": ">=0.60.0"
+    "react": "*",
+    "react-native": "*"
   }
 }

@@ -5,7 +5,7 @@ Loaders in react-native using View and Animated Api
 ## Installing
 
 ```bash
-$ yarn add react-native-loaders
+$ yarn add @athaljen/react-native-loaders
 ```
 
 ## License
